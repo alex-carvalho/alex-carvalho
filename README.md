@@ -1,11 +1,10 @@
 ### Hi I'm Alex 👋
 
-- :computer: I'm Software Engineer
+- :computer: I'm a Software Engineer
 - :house_with_garden: I’m from Brazil.
 
 ### 📈 My Github Stats:
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-carvalho&count_private=true&layout=compact&show_icons=true&langs_count=20&theme=react)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alex-carvalho&layout=compact&theme=github_dark)
 
 ### Technologies
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
